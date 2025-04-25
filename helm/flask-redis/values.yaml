@@ -1,0 +1,7 @@
+flaskApp:
+  image: sergeidevops/app:latest
+  port: 5000
+
+redis:
+  image: redis:alpine
+  port: 6379
