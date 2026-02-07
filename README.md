@@ -15,10 +15,6 @@ This pet project was created to practice and demonstrate DevOps engineering skil
 - Helm — Kubernetes package manager for manifest templating
 - Secrets & .env — environment variables management
 
-🎯 Project Goals
-- Strengthen DevOps skills
-- Demonstrate the ability to work with modern development and deployment stacks
-
 ✨ Features
 - Flask application with Redis as a visit counter
 - Dockerized environment with Docker Compose
