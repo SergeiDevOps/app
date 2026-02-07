@@ -2,7 +2,6 @@
 
 Description
 A small web application built with Flask that tracks visits using Redis.  
-This pet project was created to practice and demonstrate DevOps engineering skills, including containerization, CI/CD setup, and Kubernetes deployment.
 
 🛠 Tech Stack
 - Flask — Python framework for building REST APIs
